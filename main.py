@@ -21,6 +21,6 @@ def main():
             draw_fish()
 
 
-
+if __name__ == '__main__':
     main()
 
